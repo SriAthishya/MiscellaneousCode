@@ -60,13 +60,13 @@ def spring_mat(m1,m2):
         for k in range(len(m3)):
           m3[i][j]+=m1[i][k]*m2[k][j]
   str1=""
-  a=len(m1)//2
+  a=len(m3)//2
   for i in range(0,a):
-    for j in range(0,len(m1)):
-      str1+=str(m1[i][j])
-  for i in range(a,len(m1)):
+    for j in range(0,len(m3)):
+      str1+=str(m3[i][j])
+  for i in range(a,len(m3)):
     for j in range(-1,a):
-      str1+=str(m1[i][j])
+      str1+=str(m3[i][j])
   return str1
 
 def mid_palin(str1):
