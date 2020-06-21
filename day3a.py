@@ -26,7 +26,7 @@ class day3(unittest.TestCase):
         [1,1]]
 
     e=day3b.spring_mat(m1,m2)
-    self.assertEqual(e,"1243")
+    self.assertEqual(e,"8844")
 
   def test_mid_palin(self):
     f=day3b.mid_palin("cabbaz")
