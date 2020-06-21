@@ -20,9 +20,12 @@ class day3(unittest.TestCase):
     self.assertEqual(d,["walking","am","I"])
 
   def test_spring_mat(self):
-    m=[[1,2],
-       [3,4]]
-    e=day3b.spring_mat(m)
+    m1=[[2,2],
+        [1,1]]
+    m2=[[3,3],
+        [1,1]]
+
+    e=day3b.spring_mat(m1,m2)
     self.assertEqual(e,"1243")
 
   def test_mid_palin(self):
