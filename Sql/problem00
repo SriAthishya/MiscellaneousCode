@@ -1,0 +1,186 @@
+/*Dept table creation*/
+CREATE TABLE DEPT (
+    DEP_ID      VARCHAR (5)  PRIMARY KEY,
+    DEP_NAME    VARCHAR (50),
+    DEP_MANAGER VARCHAR (50) 
+);
+
+/*Employee table creation*/
+CREATE TABLE EMPLOYEE (
+    E_ID       VARCHAR (4)  PRIMARY KEY,
+    NAME       VARCHAR (50),
+    DEP_ID     VARCHAR (5)  REFERENCES DEPT (DEP_ID),
+    SALARY     NUMERIC (10),
+    MANAGER_ID VARCHAR (10) 
+);
+
+/*1.EMPLOYEE WITH THE TOP THREE SALARIES*/
+SELECT E_ID,NAME,SALARY FROM EMPLOYEE ORDER BY SALARY DESC LIMIT 3;
+
+e_id     name           salary
+A142	TARA CUMMINGS	99475
+A132	PAUL VINCENT	94791
+A128	ADAM WAYNE	    94324
+
+/*2.EMPLOYEE WITH THE LEAST SALARY*/
+SELECT E_ID,NAME,SALARY FROM EMPLOYEE WHERE SALARY=(SELECT MIN(SALARY) FROM EMPLOYEE);
+
+e_id     name           salary
+A111	JOHN HELLEN	    15380
+
+/*3.EMPLOYEES WHO DOES NOT HAVE A MANAGER IN THE DEPARTMENT TABLE*/
+SELECT E_ID,NAME FROM EMPLOYEE E WHERE MANAGER_ID NOT IN (
+SELECT E_ID FROM EMPLOYEE E JOIN DEPT D ON E.NAME=D.DEP_MANAGER);
+
+e_id     name 
+A178	BRUCE WILLS
+A120	TIM ARCHER
+A187	ADAM JUSTIN
+A188	ROBERT SWIFT
+A165	NATASHA STEVENS
+
+/*4.EMPLOYEES WHO IS ALSO A MANAGER*/
+SELECT E_ID,NAME FROM EMPLOYEE E WHERE E_ID IN (
+SELECT E_ID FROM EMPLOYEE E JOIN DEPT D ON E.NAME=D.DEP_MANAGER);
+
+e_id     name 
+A120	TIM ARCHER
+A165	NATASHA STEVENS
+A178	BRUCE WILLS
+A187	ADAM JUSTIN
+A188	ROBERT SWIFT
+
+/*5.EMPLOYEE WHO IS A MANAGER AND HAS LEAST SALARY*/
+SELECT E_ID,NAME,salary FROM EMPLOYEE E WHERE e_id in (
+SELECT E_ID FROM EMPLOYEE E JOIN DEPT D ON E.NAME=D.DEP_MANAGER) order by salary asc limit 1;
+
+e_id     name           salary
+A188	ROBERT SWIFT	27700
+
+/*6.Total number of employees in communication department*/
+select count(dep_id) from employee where dep_id='D02';
+
+6
+
+/*7.employee in finance dept who has the top salary*/
+select e_id,name from employee where dep_id='D05' and salary in 
+(select max(salary) from employee group by dep_id);
+
+e_id     name
+A128	ADAM WAYNE
+
+/*8.employee in product dept who has least salary*/
+select e_id,name from employee where dep_id='D03' and salary in 
+(select min(salary) from employee group by dep_id);
+
+e_id     name
+A156	NICK MARTIN
+
+/*9.Count of employees in health with maximum salary*/
+select count(e_id) from employee where dep_id='D01' and salary=
+(select max(salary) from employee group by dep_id);
+
+1
+
+/*10.employees who report to Natasha Stevens*/
+select e_id,name from employee where manager_id='A165';
+
+e_id     name
+A128	ADAM WAYNE
+A129    JOSEPH ANGELIN
+
+/*11.Employee name,Employee count,Dep name,Dept manager in the Health department*/
+select e.name,e_id employee_count,d.dep_name,d.dep_manager from employee e join dept d 
+on d.dep_id=e.dep_id where e.dep_id='D01';
+
+name            employee_count  dep_name   dep_manager 
+MARTIN TREDEAU	   A114	         HEALTH	    TIM ARCHER
+PAUL VINCENT	   A132	         HEALTH	    TIM ARCHER
+TIM ARCHER	       A120	         HEALTH	    TIM ARCHER
+BRAD MICHAEL	   A143    	     HEALTH	    TIM ARCHER
+EDWARD CANE	       A176		     HEALTH	    TIM ARCHER
+JOHN HELLEN	       A111	         HEALTH	    TIM ARCHER
+
+
+/*12.Department id,Employee ids and Manager ids for the Communications department*/
+select dep_id,e_id,manager_id from employee where dep_id='D02';
+
+dep_id  e_id   manager_id
+D02	A116	A188
+D02	A198	A187
+D02	A187	A298
+D02	A121	A187
+D02	A194	A187
+D02	A133	A188
+
+/*13. Average Expenses for Each dept with Dept id and Dept name*/
+select d.dep_id,d.dep_name,avg(e.salary) average_expenses from dept d join employee e 
+on d.dep_id=e.dep_id group by d.dep_id;
+
+dep_id  dep_name 	   average_expenses
+D01	 HEALTH		      54527.666666666664
+D02	 COMMUNICATIONS	  48271.333333333336
+D03	 PRODUCT	      58517.5
+D04	 INSURANCE	      51913.333333333336
+D05	 FINANCE	      56660.333333333336
+
+/*14.total expense for the department finance*/
+select sum(salary) total_expense,dep_id  from employee where dep_id='D05';
+
+total_expense   dep_id
+169981		    D05
+
+/*15.department which spends the least with Dept id and Dept manager name*/
+select d.dep_id,d.dep_manager,avg(e.salary) expense from dept d join employee e on d.dep_id=e.dep_id 
+group by d.dep_id order by salary desc limit 1;
+
+dep_id   dep_manager       expense
+D02	     ADAM JUSTIN	48271.333333333336
+
+/*16.count of Employees in each department*/
+select count(e_id) no_of_emp,dep_id from employee group by dep_id;
+
+no_of_emp     dep_id
+6		       D01
+6		       D02
+2		       D03
+3		       D04
+3		       D05
+
+/*17.count of Employees in each department having salary <20000*/
+select dep_id,count(e_id) no_of_emp from employee where salary<20000 group by dep_id;
+
+dep_id  no_of_emp
+D01	       1
+D02	       1
+
+/*18. total number of Employees in Dept id D04 */
+select count(e_id) no_of_emp from employee where dep_id='D04';
+
+no_of_emp
+3
+
+/*19.department details of the Department with Maximum Employees*/
+select d.dep_id,d.dep_name,count(e.e_id) no_of_emp from employee e join dept d on d.dep_id=e.dep_id 
+group by d.dep_id order by count(e.e_id) desc;
+
+dep_id  dep_name       no_of_emp
+D01	    HEALTH		      6
+D02	    COMMUNICATIONS	  6
+D04	    INSURANCE	      3
+D05	    FINANCE	          3
+D03	    PRODUCT	          2
+
+/*20.Employees who has Tim Archer as their manager*/
+SELECT E_ID,NAME FROM EMPLOYEE WHERE MANAGER_ID IN
+(select e.e_id from employee e join dept d on d.dep_manager=e.name where e.name='TIM ARCHER');
+
+e_id      name
+A114	MARTIN TREDEAU
+A132	PAUL VINCENT
+A143	BRAD MICHAEL
+A176	EDWARD CANE
+A111	JOHN HELLEN
+
+SELECT * FROM DEPT;
+SELECT * FROM EMPLOYEE;
