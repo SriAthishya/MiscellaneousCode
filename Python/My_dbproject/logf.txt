@@ -1,0 +1,660 @@
+2020-06-25 11:34:15,892 - Database connected
+2020-06-25 11:34:15,925 - This is an info message
+2020-06-25 15:32:32,537 - This is an info message
+2020-06-25 15:32:46,417 - This is an info message
+2020-06-25 15:33:23,703 - This is an info message
+2020-06-25 19:46:10,049 - Print
+2020-06-25 20:03:19,625 - Print
+2020-06-25 20:06:04,851 - Database Connected Successfully
+2020-06-25 20:06:04,851 - Data selected from the Table
+2020-06-25 20:08:02,277 - Database Connected Successfully
+2020-06-25 20:08:02,280 - Data selected from the Table
+2020-06-25 20:09:10,777 - Database Connected Successfully
+2020-06-25 20:09:10,780 - Data selected from the Table
+2020-06-25 20:11:22,538 - Database Connected Successfully
+2020-06-25 20:11:22,559 - Data selected from the Table
+2020-06-25 20:11:57,195 - Database Connected Successfully
+2020-06-25 20:11:57,198 - Data selected from the Table
+2020-06-25 20:16:08,150 - Database Connected Successfully
+2020-06-25 20:16:08,152 - Data selected from the Table
+2020-06-25 21:04:23,809 - Data selected from the Table
+2020-06-25 21:08:46,012 - Database Connected Successfully
+2020-06-25 21:11:10,816 - Database Connected Successfully
+2020-06-25 21:11:10,838 - Database Connected Successfully
+2020-06-25 21:11:26,559 - Database Connected Successfully
+2020-06-25 21:11:26,638 - Database Connected Successfully
+2020-06-25 21:12:16,423 - Database Connected Successfully
+2020-06-25 21:12:46,860 - Database Connected Successfully
+2020-06-25 21:12:46,865 - Database Connected Successfully
+2020-06-25 21:12:46,867 - Database Connected Successfully
+2020-06-25 21:14:46,222 - Database Connected Successfully
+2020-06-25 21:14:46,222 - Database Connected Successfully
+2020-06-25 21:14:46,228 - Database Connected Successfully
+2020-06-25 21:14:46,232 - Database Connected Successfully
+2020-06-25 21:15:29,511 - Database Connected Successfully
+2020-06-25 21:15:29,512 - Database Connected Successfully
+2020-06-25 21:15:29,517 - Database Connected Successfully
+2020-06-25 21:15:29,518 - Database Connected Successfully
+2020-06-25 21:16:15,972 - Database Connected Successfully
+2020-06-25 21:16:15,972 - Database Connected Successfully
+2020-06-25 21:16:15,981 - Database Connected Successfully
+2020-06-25 21:16:15,981 - Database Connected Successfully
+2020-06-25 21:16:15,981 - Data selected from the Table
+2020-06-25 22:23:48,912 - Database Connected Successfully
+2020-06-25 22:23:48,938 - Database Connected Successfully
+2020-06-25 22:23:48,963 - Database Connected Successfully
+2020-06-25 22:23:48,980 - Database Connected Successfully
+2020-06-25 22:24:49,801 - Database Connected Successfully
+2020-06-25 22:26:23,542 - Database Connected Successfully
+2020-06-25 22:26:23,543 - Database Connected Successfully
+2020-06-25 22:26:33,453 - Database Connected Successfully
+2020-06-25 22:26:33,454 - Database Connected Successfully
+2020-06-25 22:26:33,460 - Database Connected Successfully
+2020-06-25 22:26:33,462 - Database Connected Successfully
+2020-06-25 22:26:45,034 - Database Connected Successfully
+2020-06-25 22:26:45,035 - Database Connected Successfully
+2020-06-25 22:29:26,918 - Database Connected Successfully
+2020-06-25 22:29:26,919 - Database Connected Successfully
+2020-06-25 22:30:57,415 - Database Connected Successfully
+2020-06-25 22:30:57,416 - Database Connected Successfully
+2020-06-25 22:30:57,416 - Data deleted inside the Table
+2020-06-25 22:30:57,569 - New table is created since there is no such table already exists
+2020-06-25 22:30:57,573 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,573 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,573 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,574 - Data are inserted successfully into the Table
+2020-06-25 22:30:57,801 - Database Connected Successfully
+2020-06-25 22:30:57,802 - Data selected from the Table
+2020-06-25 22:31:08,345 - Database Connected Successfully
+2020-06-25 22:31:08,346 - Database Connected Successfully
+2020-06-25 22:31:08,352 - Database Connected Successfully
+2020-06-25 22:31:08,353 - Data selected from the Table
+2020-06-25 22:31:41,830 - Database Connected Successfully
+2020-06-25 22:31:41,831 - Database Connected Successfully
+2020-06-25 22:31:41,835 - Database Connected Successfully
+2020-06-25 22:31:41,836 - Data selected from the Table
+2020-06-25 22:31:48,331 - Database Connected Successfully
+2020-06-25 22:31:48,332 - Database Connected Successfully
+2020-06-25 22:31:48,336 - Database Connected Successfully
+2020-06-25 22:31:48,337 - Data selected from the Table
+2020-06-25 22:32:04,220 - Database Connected Successfully
+2020-06-25 22:32:04,220 - Database Connected Successfully
+2020-06-25 22:32:04,227 - Database Connected Successfully
+2020-06-25 22:32:04,229 - Data selected from the Table
+2020-06-25 22:37:32,712 - Database Connected Successfully
+2020-06-25 22:37:32,744 - Database Connected Successfully
+2020-06-25 22:37:32,765 - Database Connected Successfully
+2020-06-25 22:37:32,765 - Data selected from the Table
+2020-06-25 22:37:49,364 - Database Connected Successfully
+2020-06-25 22:37:49,364 - Database Connected Successfully
+2020-06-25 22:37:49,364 - Database Connected Successfully
+2020-06-25 22:37:49,364 - Data selected from the Table
+2020-06-25 22:38:45,291 - Database Connected Successfully
+2020-06-25 22:38:45,292 - Database Connected Successfully
+2020-06-25 22:38:45,295 - Database Connected Successfully
+2020-06-25 22:38:45,296 - Data selected from the Table
+2020-06-25 22:41:51,524 - Database Connected Successfully
+2020-06-25 22:42:48,400 - Database Connected Successfully
+2020-06-25 22:43:28,355 - Database Connected Successfully
+2020-06-25 22:44:36,643 - Database Connected Successfully
+2020-06-25 22:45:21,676 - Database Connected Successfully
+2020-06-25 22:46:16,476 - Database Connected Successfully
+2020-06-25 22:46:56,195 - Database Connected Successfully
+2020-06-25 22:46:56,195 - Database Connected Successfully
+2020-06-25 22:47:16,282 - Database Connected Successfully
+2020-06-25 22:47:16,282 - Database Connected Successfully
+2020-06-25 22:47:16,282 - Database Connected Successfully
+2020-06-25 22:47:16,282 - Data selected from the Table
+2020-06-25 22:47:30,017 - Database Connected Successfully
+2020-06-25 22:47:30,017 - Database Connected Successfully
+2020-06-25 22:47:30,017 - Database Connected Successfully
+2020-06-25 22:47:30,017 - Data selected from the Table
+2020-06-25 22:47:47,613 - Database Connected Successfully
+2020-06-25 22:47:47,613 - Database Connected Successfully
+2020-06-25 22:47:47,613 - Database Connected Successfully
+2020-06-25 22:47:47,613 - Data selected from the Table
+2020-06-25 22:48:31,647 - Database Connected Successfully
+2020-06-25 22:48:31,663 - Database Connected Successfully
+2020-06-25 22:48:31,663 - Database Connected Successfully
+2020-06-25 22:48:50,713 - Database Connected Successfully
+2020-06-25 22:48:50,713 - Database Connected Successfully
+2020-06-25 22:48:50,713 - Database Connected Successfully
+2020-06-25 22:48:50,713 - Data selected from the Table
+2020-06-25 22:49:35,349 - Database Connected Successfully
+2020-06-25 22:49:35,365 - Database Connected Successfully
+2020-06-25 22:49:35,365 - Database Connected Successfully
+2020-06-25 22:49:35,365 - Data selected from the Table
+2020-06-25 22:50:44,310 - Database Connected Successfully
+2020-06-25 22:50:44,310 - Database Connected Successfully
+2020-06-25 22:50:44,310 - Data selected from the Table
+2020-06-25 22:52:39,981 - Database Connected Successfully
+2020-06-25 22:52:39,981 - Database Connected Successfully
+2020-06-25 22:52:39,981 - Data selected from the Table
+2020-06-25 22:53:39,242 - Database Connected Successfully
+2020-06-25 22:53:39,242 - Database Connected Successfully
+2020-06-25 22:53:39,242 - Data selected from the Table
+2020-06-26 10:46:55,941 - Database Connected Successfully
+2020-06-26 10:46:56,037 - Database Connected Successfully
+2020-06-26 10:46:56,048 - Data selected from the Table
+2020-06-26 11:19:40,136 - Database Connected Successfully
+2020-06-26 11:23:51,482 - Database Connected Successfully
+2020-06-26 11:23:51,539 - Data deleted inside the Table
+2020-06-26 11:35:20,939 - Database Connected Successfully
+2020-06-26 11:38:40,229 - Data deleted inside the Table
+2020-06-26 11:41:27,502 - Database Connected Successfully
+2020-06-26 11:41:27,558 - Data deleted inside the Table
+2020-06-26 11:41:27,875 - New table is created since there is no such table already exists
+2020-06-26 11:41:27,912 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,913 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,913 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,913 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,914 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,914 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,914 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,914 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,914 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,914 - Data are inserted successfully into the Table
+2020-06-26 11:41:27,914 - Data are inserted successfully into the Table
+2020-06-26 12:04:15,792 - Database Connected Successfully
+2020-06-26 12:04:15,850 - Data deleted inside the Table
+2020-06-26 12:04:34,550 - Database Connected Successfully
+2020-06-26 12:04:34,550 - Data deleted inside the Table
+2020-06-26 12:04:34,667 - New table is created since there is no such table already exists
+2020-06-26 12:04:34,721 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,721 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,722 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,722 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,723 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,723 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,723 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,724 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,724 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,725 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,726 - Data are inserted successfully into the Table
+2020-06-26 12:04:34,982 - Data selected from the Table
+2020-06-26 12:04:45,374 - Database Connected Successfully
+2020-06-26 12:07:05,215 - Database Connected Successfully
+2020-06-26 12:07:59,674 - Database Connected Successfully
+2020-06-26 12:07:59,708 - Database Connected Successfully
+2020-06-26 12:10:26,591 - Database Connected Successfully
+2020-06-26 12:10:26,616 - Database Connected Successfully
+2020-06-26 12:13:19,278 - Database Connected Successfully
+2020-06-26 12:13:19,314 - Database Connected Successfully
+2020-06-26 12:40:02,745 - Database Connected Successfully
+2020-06-26 12:40:02,773 - Database Connected Successfully
+2020-06-26 12:41:44,863 - Database Connected Successfully
+2020-06-26 12:41:44,863 - Database Connected Successfully
+2020-06-26 12:42:41,250 - Database Connected Successfully
+2020-06-26 12:42:41,254 - Data deleted inside the Table
+2020-06-26 12:42:41,263 - New table is created since there is no such table already exists
+2020-06-26 12:42:41,268 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,268 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,269 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,269 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,269 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,281 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,282 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,282 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,283 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,283 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,283 - Data are inserted successfully into the Table
+2020-06-26 12:42:41,451 - Data selected from the Table
+2020-06-26 12:42:48,130 - Database Connected Successfully
+2020-06-26 12:42:48,140 - Database Connected Successfully
+2020-06-26 12:48:39,872 - Database Connected Successfully
+2020-06-26 12:48:39,893 - Database Connected Successfully
+2020-06-26 12:49:01,835 - Database Connected Successfully
+2020-06-26 12:49:01,835 - Database Connected Successfully
+2020-06-26 12:53:36,033 - Database Connected Successfully
+2020-06-26 12:53:36,041 - Database Connected Successfully
+2020-06-26 12:53:57,291 - Database Connected Successfully
+2020-06-26 12:53:57,291 - Database Connected Successfully
+2020-06-26 12:55:22,900 - Database Connected Successfully
+2020-06-26 12:55:22,901 - Data deleted inside the Table
+2020-06-26 12:55:22,902 - New table is created since there is no such table already exists
+2020-06-26 12:55:22,915 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,916 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,916 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,916 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,916 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,917 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,917 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,917 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,917 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,917 - Data are inserted successfully into the Table
+2020-06-26 12:55:22,917 - Data are inserted successfully into the Table
+2020-06-26 12:55:23,089 - Data selected from the Table
+2020-06-26 12:55:46,976 - Database Connected Successfully
+2020-06-26 12:55:47,001 - Data deleted inside the Table
+2020-06-26 12:55:47,001 - New table is created since there is no such table already exists
+2020-06-26 12:55:47,003 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,003 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,003 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,003 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,004 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,004 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,004 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,004 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,004 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,004 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,005 - Data are inserted successfully into the Table
+2020-06-26 12:55:47,108 - Data selected from the Table
+2020-06-26 12:56:05,495 - Database Connected Successfully
+2020-06-26 12:56:05,526 - Data deleted inside the Table
+2020-06-26 12:56:05,526 - New table is created since there is no such table already exists
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,526 - Data are inserted successfully into the Table
+2020-06-26 12:56:05,655 - Data selected from the Table
+2020-06-26 12:56:29,043 - Database Connected Successfully
+2020-06-26 12:56:29,058 - Data deleted inside the Table
+2020-06-26 12:56:29,058 - New table is created since there is no such table already exists
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,058 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,063 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,063 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,063 - Data are inserted successfully into the Table
+2020-06-26 12:56:29,210 - Data selected from the Table
+2020-06-26 12:56:40,273 - Database Connected Successfully
+2020-06-26 12:56:40,282 - Database Connected Successfully
+2020-06-26 12:58:58,518 - Database Connected Successfully
+2020-06-26 12:58:58,557 - Database Connected Successfully
+2020-06-26 13:03:16,724 - Database Connected Successfully
+2020-06-26 13:03:16,724 - Database Connected Successfully
+2020-06-26 13:06:17,488 - Database Connected Successfully
+2020-06-26 13:06:17,507 - Data deleted inside the Table
+2020-06-26 13:06:17,508 - New table is created since there is no such table already exists
+2020-06-26 13:06:17,509 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,509 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,510 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,511 - Data are inserted successfully into the Table
+2020-06-26 13:06:17,663 - Data selected from the Table
+2020-06-26 13:07:24,509 - Database Connected Successfully
+2020-06-26 13:07:24,509 - Database Connected Successfully
+2020-06-26 14:56:41,297 - Database Connected Successfully
+2020-06-26 14:56:41,332 - Database Connected Successfully
+2020-06-26 14:59:05,264 - Database Connected Successfully
+2020-06-26 14:59:05,265 - Database Connected Successfully
+2020-06-26 14:59:31,909 - Database Connected Successfully
+2020-06-26 14:59:31,910 - Database Connected Successfully
+2020-06-26 15:00:17,953 - Database Connected Successfully
+2020-06-26 15:00:17,954 - Database Connected Successfully
+2020-06-26 15:03:32,395 - Database Connected Successfully
+2020-06-26 15:03:32,464 - Data deleted inside the Table
+2020-06-26 15:03:32,466 - New table is created since there is no such table already exists
+2020-06-26 15:03:32,467 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,467 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,467 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,467 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,468 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,468 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,468 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,468 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,468 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,468 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,468 - Data are inserted successfully into the Table
+2020-06-26 15:03:32,670 - Data selected from the Table
+2020-06-26 15:03:38,572 - Database Connected Successfully
+2020-06-26 15:03:38,573 - Database Connected Successfully
+2020-06-26 15:04:06,375 - Database Connected Successfully
+2020-06-26 15:04:06,377 - Data deleted inside the Table
+2020-06-26 15:04:06,377 - New table is created since there is no such table already exists
+2020-06-26 15:04:06,378 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,378 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,378 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,378 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,378 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,378 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,379 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,379 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,379 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,379 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,379 - Data are inserted successfully into the Table
+2020-06-26 15:04:06,495 - Data selected from the Table
+2020-06-26 15:04:12,559 - Database Connected Successfully
+2020-06-26 15:04:12,560 - Database Connected Successfully
+2020-06-26 20:25:44,441 - Database Connected Successfully
+2020-06-26 20:25:44,597 - Data deleted inside the Table
+2020-06-26 20:25:44,597 - New table is created since there is no such table already exists
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,676 - Data are inserted successfully into the Table
+2020-06-26 20:25:44,879 - Data selected from the Table
+2020-06-26 20:37:08,695 - Database Connected Successfully
+2020-06-26 20:37:08,882 - Database Connected Successfully
+2020-06-26 20:38:18,398 - Database Connected Successfully
+2020-06-26 20:38:18,398 - Database Connected Successfully
+2020-06-26 20:39:32,966 - Database Connected Successfully
+2020-06-26 20:39:32,966 - Database Connected Successfully
+2020-06-26 20:39:44,581 - Database Connected Successfully
+2020-06-26 20:39:44,581 - Database Connected Successfully
+2020-06-26 20:43:14,639 - Database Connected Successfully
+2020-06-26 20:43:14,670 - Database Connected Successfully
+2020-06-26 20:44:22,530 - Database Connected Successfully
+2020-06-26 20:44:22,530 - Database Connected Successfully
+2020-06-26 20:45:14,117 - Database Connected Successfully
+2020-06-26 20:45:14,117 - Database Connected Successfully
+2020-06-26 20:47:28,699 - Database Connected Successfully
+2020-06-26 20:47:28,699 - Database Connected Successfully
+2020-06-26 20:50:38,573 - Database Connected Successfully
+2020-06-26 20:50:38,589 - Database Connected Successfully
+2020-06-26 20:51:26,932 - Database Connected Successfully
+2020-06-26 20:51:26,932 - Database Connected Successfully
+2020-06-26 20:51:26,932 - Database Connected Successfully
+2020-06-26 20:51:56,230 - Database Connected Successfully
+2020-06-26 20:51:56,230 - Database Connected Successfully
+2020-06-26 20:52:33,489 - Database Connected Successfully
+2020-06-26 20:52:33,489 - Database Connected Successfully
+2020-06-26 20:52:33,489 - Database Connected Successfully
+2020-06-26 20:56:04,839 - Database Connected Successfully
+2020-06-26 20:56:04,839 - Database Connected Successfully
+2020-06-26 20:56:04,839 - Database Connected Successfully
+2020-06-26 21:35:49,251 - Database Connected Successfully
+2020-06-26 21:35:49,267 - Database Connected Successfully
+2020-06-26 21:35:49,282 - Database Connected Successfully
+2020-06-26 21:36:54,584 - Database Connected Successfully
+2020-06-26 21:36:54,584 - Database Connected Successfully
+2020-06-26 21:36:54,584 - Database Connected Successfully
+2020-06-26 21:44:18,493 - Database Connected Successfully
+2020-06-26 21:44:18,493 - Database Connected Successfully
+2020-06-26 21:44:18,493 - Database Connected Successfully
+2020-06-26 21:45:48,685 - Database Connected Successfully
+2020-06-26 21:45:48,685 - Database Connected Successfully
+2020-06-26 21:45:48,685 - Database Connected Successfully
+2020-06-26 21:47:55,217 - Database Connected Successfully
+2020-06-26 21:47:55,217 - Database Connected Successfully
+2020-06-26 21:47:55,217 - Database Connected Successfully
+2020-06-26 21:48:08,397 - Database Connected Successfully
+2020-06-26 21:48:08,397 - Database Connected Successfully
+2020-06-26 21:48:08,413 - Database Connected Successfully
+2020-06-26 21:49:03,905 - Database Connected Successfully
+2020-06-26 21:49:03,905 - Database Connected Successfully
+2020-06-26 21:49:03,905 - Database Connected Successfully
+2020-06-26 21:49:44,906 - Database Connected Successfully
+2020-06-26 21:49:44,906 - Database Connected Successfully
+2020-06-26 21:49:44,906 - Database Connected Successfully
+2020-06-26 21:50:03,880 - Database Connected Successfully
+2020-06-26 21:50:03,880 - Database Connected Successfully
+2020-06-26 21:50:03,880 - Database Connected Successfully
+2020-06-26 21:51:24,098 - Database Connected Successfully
+2020-06-26 21:51:24,113 - Data deleted inside the Table
+2020-06-26 21:51:24,113 - New table is created since there is no such table already exists
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,113 - Data are inserted successfully into the Table
+2020-06-26 21:51:24,254 - Database Connected Successfully
+2020-06-26 21:51:24,254 - Data selected from the Table
+2020-06-26 21:53:27,430 - Database Connected Successfully
+2020-06-26 21:53:27,430 - Data deleted inside the Table
+2020-06-26 21:53:27,430 - New table is created since there is no such table already exists
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,430 - Data are inserted successfully into the Table
+2020-06-26 21:53:27,588 - Database Connected Successfully
+2020-06-26 21:53:27,588 - Data selected from the Table
+2020-06-26 21:57:06,964 - Database Connected Successfully
+2020-06-26 21:57:06,995 - Data deleted inside the Table
+2020-06-26 21:57:06,995 - New table is created since there is no such table already exists
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:06,995 - Data are inserted successfully into the Table
+2020-06-26 21:57:07,136 - Database Connected Successfully
+2020-06-26 21:57:07,136 - Data selected from the Table
+2020-06-26 22:04:09,502 - Database Connected Successfully
+2020-06-26 22:04:09,725 - Data deleted inside the Table
+2020-06-26 22:04:09,725 - New table is created since there is no such table already exists
+2020-06-26 22:04:09,732 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,733 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,733 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,734 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,734 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,735 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,735 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,736 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,736 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,737 - Data are inserted successfully into the Table
+2020-06-26 22:04:09,737 - Data are inserted successfully into the Table
+2020-06-26 22:04:10,761 - Database Connected Successfully
+2020-06-26 22:04:10,763 - Data selected from the Table
+2020-06-26 22:16:49,438 - Database Connected Successfully
+2020-06-26 22:16:49,579 - Data deleted inside the Table
+2020-06-26 22:16:49,579 - New table is created since there is no such table already exists
+2020-06-26 22:16:49,580 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,580 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,584 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,584 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,584 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,585 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,586 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,586 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,586 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,587 - Data are inserted successfully into the Table
+2020-06-26 22:16:49,587 - Data are inserted successfully into the Table
+2020-06-26 22:16:50,250 - Database Connected Successfully
+2020-06-26 22:16:50,250 - Data selected from the Table
+2020-06-26 22:19:57,663 - Database Connected Successfully
+2020-06-26 22:19:57,811 - Data deleted inside the Table
+2020-06-26 22:19:57,812 - New table is created since there is no such table already exists
+2020-06-26 22:19:57,813 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,814 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,814 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,815 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,816 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,816 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,817 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,817 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,817 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,817 - Data are inserted successfully into the Table
+2020-06-26 22:19:57,817 - Data are inserted successfully into the Table
+2020-06-26 22:19:58,768 - Database Connected Successfully
+2020-06-26 22:19:58,768 - Data selected from the Table
+2020-06-26 22:26:22,780 - Database Connected Successfully
+2020-06-26 22:26:22,819 - Data deleted inside the Table
+2020-06-26 22:26:22,820 - New table is created since there is no such table already exists
+2020-06-26 22:26:22,822 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,822 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,824 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,825 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,825 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,825 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,825 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,825 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,825 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,825 - Data are inserted successfully into the Table
+2020-06-26 22:26:22,827 - Data are inserted successfully into the Table
+2020-06-26 22:26:23,055 - Database Connected Successfully
+2020-06-26 22:26:23,055 - Data selected from the Table
+2020-06-26 22:29:17,843 - Database Connected Successfully
+2020-06-26 22:29:17,853 - Data deleted inside the Table
+2020-06-26 22:29:17,853 - New table is created since there is no such table already exists
+2020-06-26 22:29:17,854 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,854 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,854 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,855 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,855 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,855 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,855 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,855 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,857 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,857 - Data are inserted successfully into the Table
+2020-06-26 22:29:17,857 - Data are inserted successfully into the Table
+2020-06-26 22:29:18,882 - Database Connected Successfully
+2020-06-26 22:29:18,883 - Data selected from the Table
+2020-06-26 22:32:37,122 - Data deleted inside the Table
+2020-06-26 22:33:07,362 - Database Connected Successfully
+2020-06-26 22:33:07,369 - Data deleted inside the Table
+2020-06-26 22:33:07,370 - New table is created since there is no such table already exists
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,370 - Data are inserted successfully into the Table
+2020-06-26 22:33:07,537 - Database Connected Successfully
+2020-06-26 22:33:07,537 - Data selected from the Table
+2020-06-26 22:36:30,715 - Database Connected Successfully
+2020-06-26 22:36:30,718 - Data deleted inside the Table
+2020-06-26 22:36:30,719 - New table is created since there is no such table already exists
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,719 - Data are inserted successfully into the Table
+2020-06-26 22:36:30,859 - Database Connected Successfully
+2020-06-26 22:36:30,876 - Data selected from the Table
+2020-06-26 22:37:20,614 - Database Connected Successfully
+2020-06-26 22:37:20,650 - Data deleted inside the Table
+2020-06-26 22:37:20,651 - New table is created since there is no such table already exists
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,651 - Data are inserted successfully into the Table
+2020-06-26 22:37:20,774 - Database Connected Successfully
+2020-06-26 22:37:20,774 - Data selected from the Table
+2020-06-26 22:37:41,022 - Database Connected Successfully
+2020-06-26 22:37:41,022 - Database Connected Successfully
+2020-06-26 22:37:41,022 - Database Connected Successfully
+2020-06-26 22:37:41,022 - Data selected from the Table
+2020-06-26 22:39:03,313 - Database Connected Successfully
+2020-06-26 22:39:03,315 - Database Connected Successfully
+2020-06-26 22:39:03,316 - Database Connected Successfully
+2020-06-26 22:39:03,316 - Data selected from the Table
+2020-06-26 22:40:13,201 - Database Connected Successfully
+2020-06-26 22:40:13,218 - Database Connected Successfully
+2020-06-26 22:40:13,218 - Database Connected Successfully
+2020-06-26 22:40:13,218 - Data selected from the Table
+2020-06-26 22:40:32,523 - Database Connected Successfully
+2020-06-26 22:40:32,523 - Database Connected Successfully
+2020-06-26 22:40:32,523 - Database Connected Successfully
+2020-06-26 22:40:32,523 - Data selected from the Table
+2020-06-26 22:43:38,649 - Database Connected Successfully
+2020-06-26 22:43:38,653 - Database Connected Successfully
+2020-06-26 22:43:38,653 - Database Connected Successfully
+2020-06-26 22:43:38,657 - Data selected from the Table
+2020-06-26 22:48:42,334 - Database Connected Successfully
+2020-06-26 22:48:42,347 - Database Connected Successfully
+2020-06-26 22:48:42,348 - Database Connected Successfully
+2020-06-26 22:48:42,350 - Data selected from the Table
+2020-06-26 23:06:23,476 - Database Connected Successfully
+2020-06-26 23:06:23,506 - Database Connected Successfully
+2020-06-26 23:06:23,506 - Database Connected Successfully
+2020-06-26 23:06:23,506 - Database Connected Successfully
+2020-06-26 23:06:23,525 - Data selected from the Table
+2020-06-26 23:06:52,112 - Database Connected Successfully
+2020-06-26 23:06:52,112 - Database Connected Successfully
+2020-06-26 23:06:52,112 - Database Connected Successfully
+2020-06-26 23:06:52,127 - Database Connected Successfully
+2020-06-26 23:06:52,129 - Data selected from the Table
+2020-06-26 23:09:10,318 - Database Connected Successfully
+2020-06-26 23:09:10,339 - Database Connected Successfully
+2020-06-26 23:09:10,341 - Database Connected Successfully
+2020-06-26 23:09:10,343 - Database Connected Successfully
+2020-06-26 23:09:10,372 - Data selected from the Table
+2020-06-26 23:10:54,265 - Database Connected Successfully
+2020-06-26 23:10:54,265 - Database Connected Successfully
+2020-06-26 23:10:54,265 - Database Connected Successfully
+2020-06-26 23:10:54,265 - Database Connected Successfully
+2020-06-26 23:10:54,265 - Data selected from the Table
+2020-06-26 23:11:00,377 - Database Connected Successfully
+2020-06-26 23:11:00,393 - Database Connected Successfully
+2020-06-26 23:11:00,394 - Database Connected Successfully
+2020-06-26 23:11:00,395 - Database Connected Successfully
+2020-06-26 23:11:00,397 - Data selected from the Table
+2020-06-26 23:12:57,600 - Database Connected Successfully
+2020-06-26 23:12:57,603 - Database Connected Successfully
+2020-06-26 23:12:57,603 - Database Connected Successfully
+2020-06-26 23:12:57,603 - Database Connected Successfully
+2020-06-26 23:12:57,603 - Data selected from the Table
+2020-06-26 23:13:40,498 - Database Connected Successfully
+2020-06-26 23:13:40,498 - Database Connected Successfully
+2020-06-26 23:13:40,498 - Database Connected Successfully
+2020-06-26 23:13:40,498 - Database Connected Successfully
+2020-06-26 23:13:40,498 - Data selected from the Table
+2020-06-26 23:19:19,513 - Database Connected Successfully
+2020-06-26 23:19:19,513 - Database Connected Successfully
+2020-06-26 23:19:19,530 - Database Connected Successfully
+2020-06-26 23:19:19,531 - Database Connected Successfully
+2020-06-26 23:19:19,534 - Data selected from the Table
+2020-06-26 23:22:23,822 - Database Connected Successfully
+2020-06-26 23:22:23,850 - Database Connected Successfully
+2020-06-26 23:22:23,853 - Database Connected Successfully
+2020-06-26 23:22:23,853 - Database Connected Successfully
+2020-06-26 23:22:23,900 - Data selected from the Table
